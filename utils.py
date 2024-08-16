@@ -22,7 +22,7 @@ def checking_for_over_and_under(bet_choices,over_predictions=[],under_prediction
             over_and_under_elements= bet_choice.find_elements(By.CLASS_NAME,"m-table-cell-item")
             over_btns=bet_choice.find_elements(By.CSS_SELECTOR,".m-table-cell.m-table-cell--responsive")
             over_elements=over_and_under_elements[:2]
-            prediction=over_predictions[0]-1
+            prediction=over_predictions[0]#-1
             if prediction<=0.5:
                 #Since the prediction for over is 0.5-1...it would be better to just pick under
                 file.write("It would be safer to pick under here. \n")
@@ -40,7 +40,7 @@ def checking_for_over_and_under(bet_choices,over_predictions=[],under_prediction
             over_and_under_elements= bet_choice.find_elements(By.CLASS_NAME,"m-table-cell-item")
             under_btns=bet_choice.find_elements(By.CSS_SELECTOR,".m-table-cell.m-table-cell--responsive")
             under_elements=over_and_under_elements[2:]
-            prediction=under_predictions[0]+1#      
+            prediction=under_predictions[0]#+1#      
             if str(prediction) in under_elements[0].text:
                 file.write(f"This game can be carried {under_elements[0].text} at {under_elements[1].text} odds. \n")
                 under_prediction_odds=under_elements[1].text
@@ -131,7 +131,7 @@ def checking_for_handicap(bet_choices,averageGD,file=None):
 
 
 def checking_double_chance(bet_choices,homeWins=[],awayWins=[],teamNames=[],team_forms=[],file=None):
-    home_points=0
+    home_points=0 
     away_points=0
 
     if int(homeWins[0]) > int(awayWins[0]):

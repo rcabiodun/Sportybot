@@ -14,7 +14,7 @@ import pyfiglet
 from tqdm import tqdm
 import time
 from webdriver_manager.chrome import ChromeDriverManager
-
+from selenium.webdriver.chrome.options import Options
 LOCAL_VERSION=1.0
 # Define the total number of iterations
 
@@ -28,7 +28,11 @@ LOCAL_VERSION=1.0
 def Bot(number_of_available_games):
     welcome_text="Hi, i'm Betbot!"
     ascii_art = pyfiglet.figlet_format(welcome_text)
-
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")  # Ensure GUI is off
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--disable-gpu")
     # #print ASCII art
     print(ascii_art)
 
@@ -37,7 +41,7 @@ def Bot(number_of_available_games):
     while is_booting:
         code=input("If you're opting for the paid tier kindly type in the code sent to your mail verifying your subscription or if you want to use the free trial press 'n' ")
         if code.lower() =="n":
-            slip_limit=7
+            slip_limit=1
             print(colors.YELLOW + f"Free trial is limited to only {slip_limit} games per slip.Head to our website to complete subscribe for our paid plan at https://bet-b0t.onrender.com " + colors.RESET)
             is_booting=False
             break
@@ -86,10 +90,10 @@ def Bot(number_of_available_games):
     # Choose a random element from the array
     betslip_count_limit=int(slip_limit)
     betslip_count=0
-    service=Service(ChromeDriverManager().install())
-    driver=webdriver.Chrome(service=service)
+    service=Service("chromedriver.exe")
+    driver=webdriver.Chrome(service=service,options=chrome_options)
 
-    driver.get("https://www.sportybet.com/ng/sport/football/today")
+    driver.get("https://www.sportybet.com/ng/sport/football/upcoming?time=24")
 
 
     WebDriverWait(driver,60).until(
@@ -122,21 +126,33 @@ def Bot(number_of_available_games):
                 team_names_elements = driver.find_elements(By.CLASS_NAME, "sr-lmt-plus-scb__team-name")
                 team_name=[]
                 for name in team_names_elements:
+                    
                     team_name.append(name.text)
                 
-                time.sleep(10)
+                # print(team_name)
+                # WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.CSS_SELECTOR, ".sr-tabs-tab__wrapper.srct-tab.srm-is-fullwidth")))
                 
-                H_H = driver.find_elements(By.CSS_SELECTOR, ".sr-tabs-tab__wrapper.srct-tab.srm-is-fullwidth")[1]
-                
-            
-                #here try to get home and away wins against each other
-                WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CLASS_NAME, "sr-lmt-0-ms-league-position-form__form-label-value")))
-                team_forms_elements = driver.find_elements(By.CLASS_NAME, "sr-lmt-0-ms-league-position-form__form-label-value")
+                H_H = driver.find_elements(By.CSS_SELECTOR, ".sr-tabs-tab__wrapper.srct-tab.srm-is-fullwidth")
+
+                # print(len(H_H))
+                H_H=H_H[1]
 
                 H_H.click()
+
+
+                #here try to get home and away wins against each other
+                # WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CLASS_NAME, "sr-lmt-0-ms-league-position-form__form-label-value")))
+                team_forms_elements = None
+
+                WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.CSS_SELECTOR, ".sr-lmt-plus-slidetitle__title.srt-text-secondary.srm-no-border.srm-is-uppercase")))
+                
+                away_form_element = driver.find_element(By.CSS_SELECTOR, ".sr-lmt-plus-0-meetingsandform__fc-value.srt-base-1-away-1").text
+                home_form_element = driver.find_element(By.CSS_SELECTOR, ".sr-lmt-plus-0-meetingsandform__fc-value.srt-base-1-home-1").text
+                # print(away_form_element)
+                # print(home_form_element)
                 previous_meeting_element=driver.find_elements(By.CSS_SELECTOR, ".sr-lmt-plus-slidetitle__title.srt-text-secondary.srm-no-border.srm-is-uppercase")
                 #print(len(previous_meeting_element))
-                if previous_meeting_element[1].text == "PREVIOUS MEETINGS":
+                if previous_meeting_element[1].text == "PREVIOUS MEETINGS" or previous_meeting_element[0].text == "PREVIOUS MEETINGS" :
                     # previous_meeting_home_wins=match.find_element(By.CLASS_NAME, "sr-previous-meetings-graph__numbers").text
                     previous_meeting_home_wins=driver.find_elements(By.CSS_SELECTOR, ".sr-previous-meetings-graph__numbers-label.srt-base-1-home-1.srm-is-transparent")
                     previous_meeting_away_wins=driver.find_elements(By.CSS_SELECTOR, ".sr-previous-meetings-graph__numbers-label.srt-base-1-away-1.srm-is-transparent")
@@ -150,12 +166,22 @@ def Bot(number_of_available_games):
                 meeting_away_wins=[]
                 team_forms=[]
                 #print(f"len of team for elements {len(team_forms_elements)}")
+
+                if len(away_form_element.strip())>0 and len(home_form_element.strip())>0:
+                    team_forms.append(home_form_element)                
+                    team_forms.append(away_form_element)
+
+                else:
+                    WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.CLASS_NAME, "sr-lmt-0-ms-league-position-form__form-label-value")))
+                    team_forms_elements = driver.find_elements(By.CLASS_NAME, "sr-lmt-0-ms-league-position-form__form-label-value")
+                    for i in range(2):
+                        team_forms.append(team_forms_elements[i].get_attribute("textContent"))
+
+                
                 for i in range(2):
                     meeting_away_wins.append(previous_meeting_away_wins[i].get_attribute("textContent"))
                     meeting_home_wins.append(previous_meeting_home_wins[i].get_attribute("textContent"))
-                    team_forms.append(team_forms_elements[i].get_attribute("textContent"))
-                
-                #print(team_name)
+
                 if team_name in visited_games:
                     #print("Oops...picked an already visited game")
                     continue
@@ -165,6 +191,13 @@ def Bot(number_of_available_games):
 
                 file.write(f"Away Team --> {team_name[1]}. \n")
                 file.write(f"\tTotal Meetings Win --> {meeting_away_wins[0]}, Last Five Meeting Wins --> {meeting_away_wins[1]},Their From At the moment is --> {team_forms[1]}%.\n")
+
+                
+                print(f"Home Team --> {team_name[0]}. \n")
+                print(f"\tTotal Meetings Win --> {meeting_home_wins[0]}, Last Five Meeting Wins --> {meeting_home_wins[1]}, Their From At the moment is --> {team_forms[0]}%. \n")
+
+                print(f"Away Team --> {team_name[1]}. \n")
+                print(f"\tTotal Meetings Win --> {meeting_away_wins[0]}, Last Five Meeting Wins --> {meeting_away_wins[1]},Their From At the moment is --> {team_forms[1]}%.\n")
 
                 
                 
@@ -220,25 +253,73 @@ def Bot(number_of_available_games):
 
                     #print(f"Have {betslip_count} games in the slip")
                     file.write("\n")
+
                     file.write("---------------------------------------------------------------------------------------------------------------------------------------------------------------")
                     file.write("\n")
+                
             except Exception as e:
+                print("error ocured")
                 if(page==3):
                     driver.back()
                     continue
                 else:
                     continue
+        login_form_popUP = driver.find_element(By.CSS_SELECTOR, ".m-btn.m-btn-login")
+        login_form_popUP.click()
+        login_form = driver.find_elements(By.CSS_SELECTOR, ".m-input.fs-exclude")
+        phone_field=login_form[0]
+        password_field=login_form[1]
+        phone_field.send_keys("08058876058")
+        password_field.send_keys("Peaklane1")
+        loginBtn = driver.find_elements(By.CSS_SELECTOR, ".af-button.af-button--primary")[0]
+        loginBtn.click()
+        time.sleep(15)
+
+        place_bet_btn = driver.find_element(By.CSS_SELECTOR, ".af-button.af-button--primary")
+        place_bet_btn.click()
+        time.sleep(15)
+        confirm_btn = driver.find_elements(By.CSS_SELECTOR, ".af-button.af-button--primary")[1]
+        confirm_btn.click()
+        # time.sleep(10)
+        # booking_code_field = driver.find_elements(By.CSS_SELECTOR, ".m-input.fs-exclude")[1]
+        # booking_code_field.send_keys(code)
+        # load_code = driver.find_elements(By.CSS_SELECTOR, ".af-button.af-button--primary")[1]
+        # load_code.click()
+        # WebDriverWait(driver,12).until(
+        #     EC.presence_of_element_located((By.CLASS_NAME,"m-list-nav"))
+        # )
+        # bet_nav = driver.find_element(By.CLASS_NAME, "m-list-nav")
+        # print(bet_nav)
+        # multiple=bet_nav.find_elements(By.CLASS_NAME,"m-table-cell")
+        # multiple[1].click()   
+        # stake_field = driver.find_element(By.CSS_SELECTOR, ".m-input.fs-exclude")
+        # time.sleep(2)
+        # stake_field.clear()
+        # time.sleep(2)
+
+        # stake_field.send_keys(50)
+        # place_bet_btn = driver.find_element(By.CSS_SELECTOR, ".af-button.af-button--primary")
+        # place_bet_btn.click()
+        # time.sleep(10)
+        # confirm_bet_btn = driver.find_elements(By.CSS_SELECTOR, ".af-button.af-button--primary")[1]
+        # confirm_bet_btn.click()
+        # time.sleep(7)
         file.close()
         progress_bar.close()
         print("Done boss ")
         print("You can kindly edit the games now ...Check the analysis.txt file to view the breakdown of what went down")
         print(colors.RED + f"Closing me will close the browser...so kindly place your bet before closing me" + colors.RESET)
-        time.sleep(3000)
+        time.sleep(45000)
 
 
-service=Service(ChromeDriverManager().install())
-driver=webdriver.Chrome(service=service)
-driver.get("https://www.sportybet.com/ng/sport/football/today")
+
+service=Service("chromedriver.exe")
+chrome_options = Options()
+chrome_options.add_argument("--headless")  # Ensure GUI is off
+chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument("--disable-dev-shm-usage")
+driver=webdriver.Chrome(service=service,options=chrome_options)
+driver.get("https://www.sportybet.com/ng/sport/football/upcoming?time=24")
 
 
     # WebDriverWait(driver,40).until(
@@ -257,4 +338,8 @@ WebDriverWait(driver,60).until(
 match_rows = driver.find_elements(By.CSS_SELECTOR, ".m-table-row.m-content-row.match-row")
 print(colors.YELLOW + f"found {len(match_rows)} matches on the first page" + colors.RESET)
 driver.close()
-Bot(len(match_rows))
+MATCHES=len(match_rows)
+counter=0
+while counter<5:
+    Bot(MATCHES)
+    counter=counter+1

@@ -8,6 +8,8 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 import pymongo
 from selenium.webdriver.common.by import By
+from webdriver_manager.chrome import ChromeDriverManager
+
 #this is to store previous meetings data in spare mongodb
 
 myclient = pymongo.MongoClient("mongodb+srv://rcabiodun03:hflIAoElCc7hbMYn@cluster0.epr9vct.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
@@ -19,12 +21,13 @@ Matches = mydb["matches"]
 
 betslip_count_limit=50
 betslip_count=0
-service=Service(executable_path="chromedriver.exe")
+service=Service("chromedriver.exe")
+
 driver=webdriver.Chrome(service=service)
 
 driver.get("https://livescores.biz/tomorrow")
 
-WebDriverWait(driver,10).until(
+WebDriverWait(driver,20).until(
     EC.presence_of_element_located((By.CSS_SELECTOR,".item.match-grid-item"))
 )
 
@@ -39,9 +42,13 @@ for game in game_elements:
         break
     match_title=game.find_element(By.CLASS_NAME,"match-grid-title")
     try:
-        h2hBtn=game.find_element(By.CSS_SELECTOR,".label_link.h2h")
-        match_details.append({"title":match_title.text,"link":h2hBtn.get_attribute("href")})
-        match_count+=1
+        btns=game.find_elements(By.CLASS_NAME,"details-button")
+        for btn in btns:
+            if btn.text== "H2H":
+                # print(btn.text)
+                # print(match_title.text)
+                match_details.append({"title":match_title.text,"link":btn.get_attribute("href")})
+                match_count+=1
     except:
         print("Skipping game...no H2H")
 
@@ -55,8 +62,8 @@ for match_detail in match_details:
     h2hUrl=match_detail["link"]
     print(f"Heading to {h2hUrl}")
     try:
-    
-        service2=Service(executable_path="chromedriver.exe")
+        service2=Service("chromedriver.exe")
+        
 
         driver2=webdriver.Chrome(service=service2)
         driver2.get(h2hUrl)

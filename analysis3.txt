@@ -1,0 +1,458 @@
+Home Team --> Colorado. 
+	Total Meetings Win --> 17, Last Five Meeting Wins --> 2, Their From At the moment is --> 60%. 
+Away Team --> Kansas City. 
+	Total Meetings Win --> 22, Last Five Meeting Wins --> 1,Their From At the moment is --> 40%.
+Result from Decision engine --> Home points = 2.5 Away points = 1 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Rubin Kazan. 
+	Total Meetings Win --> 5, Last Five Meeting Wins --> 0, Their From At the moment is --> 40%. 
+Away Team --> Kryliya Sovetov. 
+	Total Meetings Win --> 12, Last Five Meeting Wins --> 4,Their From At the moment is --> 47%.
+Result from Decision engine --> Home points = 0 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> JAPS. 
+	Total Meetings Win --> 2, Last Five Meeting Wins --> 1, Their From At the moment is --> 40%. 
+Away Team --> KTP Kotka. 
+	Total Meetings Win --> 5, Last Five Meeting Wins --> 3,Their From At the moment is --> 67%.
+Result from Decision engine --> Home points = 0 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Staal Joerpeland. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0, Their From At the moment is --> 33%. 
+Away Team --> Vidar. 
+	Total Meetings Win --> 7, Last Five Meeting Wins --> 5,Their From At the moment is --> 80%.
+Result from Decision engine --> Home points = 0 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Kedah Darul Aman. 
+	Total Meetings Win --> 9, Last Five Meeting Wins --> 4, Their From At the moment is --> 60%. 
+Away Team --> Penang FA. 
+	Total Meetings Win --> 2, Last Five Meeting Wins --> 1,Their From At the moment is --> 33%.
+Result from Decision engine --> Home points = 3.5 Away points = 0 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Colonia. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 1, Their From At the moment is --> 40%. 
+Away Team --> Albion. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 1,Their From At the moment is --> 33%.
+Result from Decision engine --> Home points = 3.5 Away points = 2 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Dallas. 
+	Total Meetings Win --> 12, Last Five Meeting Wins --> 1, Their From At the moment is --> 47%. 
+Away Team --> Portland. 
+	Total Meetings Win --> 12, Last Five Meeting Wins --> 2,Their From At the moment is --> 73%.
+Result from Decision engine --> Home points = 1 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Spartak Moscow. 
+	Total Meetings Win --> 10, Last Five Meeting Wins --> 0, Their From At the moment is --> 87%. 
+Away Team --> Krasnodar. 
+	Total Meetings Win --> 8, Last Five Meeting Wins --> 3,Their From At the moment is --> 60%.
+Result from Decision engine --> Home points = 2.5 Away points = 1 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Froya. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0, Their From At the moment is --> 27%. 
+Away Team --> Aardal. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 1,Their From At the moment is --> 40%.
+Result from Decision engine --> Home points = 0 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Daejeon Korail. 
+	Total Meetings Win --> 13, Last Five Meeting Wins --> 4, Their From At the moment is --> 13%. 
+Away Team --> Changwon City. 
+	Total Meetings Win --> 8, Last Five Meeting Wins --> 0,Their From At the moment is --> 60%.
+Result from Decision engine --> Home points = 2 Away points = 1.5 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Launceston. 
+	Total Meetings Win --> 3, Last Five Meeting Wins --> 3, Their From At the moment is --> 33%. 
+Away Team --> Launceston United SC. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0,Their From At the moment is --> 0%.
+Game History is present in the Database 
+From this game history i have concluded that: 
+	 Average goals score per game between their previous meetings is -->3.75 
+	 Average goal difference  between their previous meetings is -->3 
+This game can be carried on the following 'Overs': 
+	 Over 2.5 
+	 Over 1.5 
+	 Over 0.5 
+This game can be carried on the following 'Unders': 
+	 Under 5.5 
+	 Under 4.5 
+	 Under 3.5 
+	 Under 2.5 
+Home handicap odds at 4:0 is 0 
+Away handicap odds at 0:4 is 0 
+SKIPPING....WILL COME BACK TO THIS. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Furstenfeld. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 1, Their From At the moment is --> 80%. 
+Away Team --> Oberwart. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0,Their From At the moment is --> 47%.
+Result from Decision engine --> Home points = 3.5 Away points = 0 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Sportivo Iteno. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 0, Their From At the moment is --> 20%. 
+Away Team --> San Lorenzo. 
+	Total Meetings Win --> 4, Last Five Meeting Wins --> 2,Their From At the moment is --> 47%.
+Result from Decision engine --> Home points = 0 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Perth. 
+	Total Meetings Win --> 14, Last Five Meeting Wins --> 2, Their From At the moment is --> 27%. 
+Away Team --> Floreat. 
+	Total Meetings Win --> 9, Last Five Meeting Wins --> 2,Their From At the moment is --> 27%.
+Game History is present in the Database 
+From this game history i have concluded that: 
+	 Average goals score per game between their previous meetings is -->3.6 
+	 Average goal difference  between their previous meetings is -->2 
+This game can be carried on the following 'Overs': 
+	 Over 2.5 
+	 Over 1.5 
+	 Over 0.5 
+This game can be carried on the following 'Unders': 
+	 Under 5.5 
+	 Under 4.5 
+	 Under 3.5 
+	 Under 2.5 
+Home handicap odds at 3:0 is 0 
+Away handicap odds at 0:3 is 0 
+SKIPPING....WILL COME BACK TO THIS. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Ural. 
+	Total Meetings Win --> 7, Last Five Meeting Wins --> 3, Their From At the moment is --> 13%. 
+Away Team --> Rostov. 
+	Total Meetings Win --> 9, Last Five Meeting Wins --> 1,Their From At the moment is --> 80%.
+Result from Decision engine --> Home points = 1 Away points = 2.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Fenix Pilar. 
+	Total Meetings Win --> 2, Last Five Meeting Wins --> 0, Their From At the moment is --> 67%. 
+Away Team --> Atletico Los Andes. 
+	Total Meetings Win --> 5, Last Five Meeting Wins --> 4,Their From At the moment is --> 87%.
+Result from Decision engine --> Home points = 0 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> MC Alger. 
+	Total Meetings Win --> 7, Last Five Meeting Wins --> 0, Their From At the moment is --> 53%. 
+Away Team --> Belouizdad. 
+	Total Meetings Win --> 8, Last Five Meeting Wins --> 1,Their From At the moment is --> 53%.
+Game History is present in the Database 
+From this game history i have concluded that: 
+	 Average goals score per game between their previous meetings is -->0.2 
+	 Average goal difference  between their previous meetings is -->1 
+This game can be carried on the following 'Unders': 
+	 Under 1.5 
+	 Under 0.5 
+Home handicap odds at 2:0 is 0 
+Away handicap odds at 0:2 is 0 
+SKIPPING....WILL COME BACK TO THIS. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Incheon United SRL. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 1, Their From At the moment is --> 20%. 
+Away Team --> Gimcheon Sangmu (Srl). 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0,Their From At the moment is --> 27%.
+Result from Decision engine --> Home points = 2 Away points = 1.5 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Perth. 
+	Total Meetings Win --> 14, Last Five Meeting Wins --> 2, Their From At the moment is --> 27%. 
+Away Team --> Floreat. 
+	Total Meetings Win --> 9, Last Five Meeting Wins --> 2,Their From At the moment is --> 27%.
+Game History is present in the Database 
+From this game history i have concluded that: 
+	 Average goals score per game between their previous meetings is -->3.6 
+	 Average goal difference  between their previous meetings is -->2 
+This game can be carried on the following 'Overs': 
+	 Over 2.5 
+	 Over 1.5 
+	 Over 0.5 
+This game can be carried on the following 'Unders': 
+	 Under 5.5 
+	 Under 4.5 
+	 Under 3.5 
+	 Under 2.5 
+Result from Decision engine --> Home points = 3.5 Away points = 2.5 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Hiroshima. 
+	Total Meetings Win --> 21, Last Five Meeting Wins --> 3, Their From At the moment is --> 53%. 
+Away Team --> Kobe. 
+	Total Meetings Win --> 7, Last Five Meeting Wins --> 1,Their From At the moment is --> 67%.
+Game History is present in the Database 
+From this game history i have concluded that: 
+	 Average goals score per game between their previous meetings is -->2.4 
+	 Average goal difference  between their previous meetings is -->2 
+This game can be carried on the following 'Overs': 
+	 Over 1.5 
+	 Over 0.5 
+This game can be carried on the following 'Unders': 
+	 Under 3.5 
+	 Under 2.5 
+	 Under 1.5 
+	 Under 0.5 
+Result from Decision engine --> Home points = 2 Away points = 1.5 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> FC Fakel Voronezh Youth. 
+	Total Meetings Win --> 2, Last Five Meeting Wins --> 2, Their From At the moment is --> 33%. 
+Away Team --> Akhmat Grozny. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 1,Their From At the moment is --> 33%.
+Result from Decision engine --> Home points = 3.5 Away points = 1.5 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> MC Alger. 
+	Total Meetings Win --> 7, Last Five Meeting Wins --> 0, Their From At the moment is --> 53%. 
+Away Team --> Belouizdad. 
+	Total Meetings Win --> 8, Last Five Meeting Wins --> 1,Their From At the moment is --> 53%.
+Game History is present in the Database 
+From this game history i have concluded that: 
+	 Average goals score per game between their previous meetings is -->0.2 
+	 Average goal difference  between their previous meetings is -->1 
+This game can be carried on the following 'Unders': 
+	 Under 1.5 
+	 Under 0.5 
+Home Team --> Spain SRL. 
+	Total Meetings Win --> 3, Last Five Meeting Wins --> 3, Their From At the moment is --> 73%. 
+Away Team --> Germany SRL. 
+	Total Meetings Win --> 2, Last Five Meeting Wins --> 2,Their From At the moment is --> 53%.
+Result from Decision engine --> Home points = 3.5 Away points = 0 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Midland. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 1, Their From At the moment is --> 73%. 
+Away Team --> Villa Dalmine. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0,Their From At the moment is --> 40%.
+Game History is present in the Database 
+From this game history i have concluded that: 
+	 Average goals score per game between their previous meetings is -->3.0 
+	 Average goal difference  between their previous meetings is -->1 
+This game can be carried on the following 'Overs': 
+	 Over 2.5 
+	 Over 1.5 
+	 Over 0.5 
+This game can be carried on the following 'Unders': 
+	 Under 4.5 
+	 Under 3.5 
+	 Under 2.5 
+	 Under 1.5 
+Home handicap odds at 2:0 is 0 
+Away handicap odds at 0:2 is 1.22 
+Going for away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Club Oriental. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 1, Their From At the moment is --> 33%. 
+Away Team --> Montevideo City. 
+	Total Meetings Win --> 2, Last Five Meeting Wins --> 2,Their From At the moment is --> 33%.
+Result from Decision engine --> Home points = 1.5 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Furstenfeld. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 1, Their From At the moment is --> 80%. 
+Away Team --> Oberwart. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0,Their From At the moment is --> 47%.
+Result from Decision engine --> Home points = 3.5 Away points = 0 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Glenorchy. 
+	Total Meetings Win --> 16, Last Five Meeting Wins --> 5, Their From At the moment is --> 67%. 
+Away Team --> Clarence. 
+	Total Meetings Win --> 7, Last Five Meeting Wins --> 0,Their From At the moment is --> 27%.
+Result from Decision engine --> Home points = 3.5 Away points = 0 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Dinamo Moscow. 
+	Total Meetings Win --> 5, Last Five Meeting Wins --> 5, Their From At the moment is --> 87%. 
+Away Team --> Orenburg Youth. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0,Their From At the moment is --> 7%.
+Result from Decision engine --> Home points = 3.5 Away points = 0 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Moreton City Excelsior FC 2. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0, Their From At the moment is --> 0%. 
+Away Team --> Brisbane Strikers. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 1,Their From At the moment is --> 47%.
+Home Team --> Moreton City Excelsior FC 2. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0, Their From At the moment is --> 0%. 
+Away Team --> Brisbane Strikers. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 1,Their From At the moment is --> 47%.
+Home Team --> SV Tillmitsch. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0, Their From At the moment is --> 67%. 
+Away Team --> Leoben. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 1,Their From At the moment is --> 40%.
+Home Team --> Newcastle. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0, Their From At the moment is --> 33%. 
+Away Team --> Port Vale. 
+	Total Meetings Win --> 4, Last Five Meeting Wins --> 3,Their From At the moment is --> 7%.
+Result from Decision engine --> Home points = 1.5 Away points = 2 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Balestier Khalsa. 
+	Total Meetings Win --> 11, Last Five Meeting Wins --> 3, Their From At the moment is --> 53%. 
+Away Team --> Brunei DPMM. 
+	Total Meetings Win --> 15, Last Five Meeting Wins --> 2,Their From At the moment is --> 47%.
+Game History is present in the Database 
+From this game history i have concluded that: 
+	 Average goals score per game between their previous meetings is -->5.0 
+	 Average goal difference  between their previous meetings is -->2 
+This game can be carried on the following 'Overs': 
+	 Over 4.5 
+	 Over 3.5 
+	 Over 2.5 
+	 Over 1.5 
+	 Over 0.5 
+Result from Decision engine --> Home points = 2.5 Away points = 1 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Skanstes SK. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 1, Their From At the moment is --> 60%. 
+Away Team --> Valmiera FC II / VSS. 
+	Total Meetings Win --> 3, Last Five Meeting Wins --> 3,Their From At the moment is --> 60%.
+Game History is present in the Database 
+From this game history i have concluded that: 
+	 Average goals score per game between their previous meetings is -->5.25 
+	 Average goal difference  between their previous meetings is -->3 
+This game can be carried on the following 'Overs': 
+	 Over 4.5 
+	 Over 3.5 
+	 Over 2.5 
+	 Over 1.5 
+	 Over 0.5 
+This game can be carried Over 4.5 at  odds.
+Home Team --> Academy Of Konoplev. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0, Their From At the moment is --> 47%. 
+Away Team --> Sochi. 
+	Total Meetings Win --> 2, Last Five Meeting Wins --> 2,Their From At the moment is --> 47%.
+Result from Decision engine --> Home points = 1.5 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Lightning. 
+	Total Meetings Win --> 7, Last Five Meeting Wins --> 3, Their From At the moment is --> 67%. 
+Away Team --> Capalaba. 
+	Total Meetings Win --> 5, Last Five Meeting Wins --> 0,Their From At the moment is --> 47%.
+Game History is present in the Database 
+From this game history i have concluded that: 
+	 Average goals score per game between their previous meetings is -->1.4 
+	 Average goal difference  between their previous meetings is -->1 
+Game History is present in the Database 
+From this game history i have concluded that: 
+	 Average goals score per game between their previous meetings is -->2.6 
+	 Average goal difference  between their previous meetings is -->1 
+This game can be carried on the following 'Overs': 
+	 Over 1.5 
+	 Over 0.5 
+This game can be carried on the following 'Unders': 
+	 Under 3.5 
+	 Under 2.5 
+	 Under 1.5 
+	 Under 0.5 
+Home handicap odds at 2:0 is 0 
+Away handicap odds at 0:2 is 0 
+SKIPPING....WILL COME BACK TO THIS. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> LA Galaxy. 
+	Total Meetings Win --> 9, Last Five Meeting Wins --> 2, Their From At the moment is --> 80%. 
+Away Team --> Los Angeles. 
+	Total Meetings Win --> 8, Last Five Meeting Wins --> 3,Their From At the moment is --> 87%.
+Result from Decision engine --> Home points = 1 Away points = 2.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Suwon FC (Srl). 
+	Total Meetings Win --> 4, Last Five Meeting Wins --> 2, Their From At the moment is --> 40%. 
+Away Team --> Ulsan Hyundai SRL. 
+	Total Meetings Win --> 6, Last Five Meeting Wins --> 3,Their From At the moment is --> 53%.
+Result from Decision engine --> Home points = 0 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Rigas Futbola. 
+	Total Meetings Win --> 22, Last Five Meeting Wins --> 5, Their From At the moment is --> 87%. 
+Away Team --> Jelgava. 
+	Total Meetings Win --> 4, Last Five Meeting Wins --> 0,Their From At the moment is --> 33%.
+Game History is present in the Database 
+From this game history i have concluded that: 
+	 Average goals score per game between their previous meetings is -->2.8 
+	 Average goal difference  between their previous meetings is -->2 
+This game can be carried on the following 'Overs': 
+	 Over 1.5 
+	 Over 0.5 
+This game can be carried on the following 'Unders': 
+	 Under 3.5 
+	 Under 2.5 
+	 Under 1.5 
+	 Under 0.5 
+This game can be carried Over 1.5 at 1.08 odds.
+This game can be carried Under 3.5 at 2.00 odds. 
+Picked 'Over' 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Bulle. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 1, Their From At the moment is --> 27%. 
+Away Team --> Stade Nyonnais. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 1,Their From At the moment is --> 20%.
+Result from Decision engine --> Home points = 3.5 Away points = 2 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------

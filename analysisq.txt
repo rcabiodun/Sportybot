@@ -1,0 +1,384 @@
+Home Team --> Coritiba. 
+	Total Meetings Win --> 12, Last Five Meeting Wins --> 2, Their From At the moment is --> 20%. 
+Away Team --> Ponte Preta. 
+	Total Meetings Win --> 8, Last Five Meeting Wins --> 2,Their From At the moment is --> 60%.
+Result from Decision engine --> Home points = 2 Away points = 2.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> El Gaish. 
+	Total Meetings Win --> 3, Last Five Meeting Wins --> 0, Their From At the moment is --> 33%. 
+Away Team --> Pyramids. 
+	Total Meetings Win --> 7, Last Five Meeting Wins --> 3,Their From At the moment is --> 53%.
+Result from Decision engine --> Home points = 0 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Everton. 
+	Total Meetings Win --> 10, Last Five Meeting Wins --> 2, Their From At the moment is --> 53%. 
+Away Team --> Universidad Catolica. 
+	Total Meetings Win --> 19, Last Five Meeting Wins --> 2,Their From At the moment is --> 53%.
+Result from Decision engine --> Home points = 2.5 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Broendby. 
+	Total Meetings Win --> 40, Last Five Meeting Wins --> 1, Their From At the moment is --> 67%. 
+Away Team --> Aarhus. 
+	Total Meetings Win --> 21, Last Five Meeting Wins --> 2,Their From At the moment is --> 53%.
+Result from Decision engine --> Home points = 2.5 Away points = 1 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Lillestroem. 
+	Total Meetings Win --> 15, Last Five Meeting Wins --> 2, Their From At the moment is --> 47%. 
+Away Team --> Molde. 
+	Total Meetings Win --> 25, Last Five Meeting Wins --> 3,Their From At the moment is --> 40%.
+Result from Decision engine --> Home points = 1.5 Away points = 2 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Farense. 
+	Total Meetings Win --> 2, Last Five Meeting Wins --> 2, Their From At the moment is --> 40%. 
+Away Team --> Moreirense. 
+	Total Meetings Win --> 6, Last Five Meeting Wins --> 3,Their From At the moment is --> 67%.
+Result from Decision engine --> Home points = 0 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Osijek. 
+	Total Meetings Win --> 11, Last Five Meeting Wins --> 0, Their From At the moment is --> 47%. 
+Away Team --> Dinamo Zagreb. 
+	Total Meetings Win --> 50, Last Five Meeting Wins --> 3,Their From At the moment is --> 67%.
+Result from Decision engine --> Home points = 0 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Obolon. 
+	Total Meetings Win --> 2, Last Five Meeting Wins --> 2, Their From At the moment is --> 33%. 
+Away Team --> Rukh Lviv. 
+	Total Meetings Win --> 2, Last Five Meeting Wins --> 0,Their From At the moment is --> 20%.
+Result from Decision engine --> Home points = 3.5 Away points = 1 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Blaublitz A. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 0, Their From At the moment is --> 40%. 
+Away Team --> Kagoshima Utd. 
+	Total Meetings Win --> 3, Last Five Meeting Wins --> 1,Their From At the moment is --> 27%.
+Result from Decision engine --> Home points = 1.5 Away points = 2 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Varazdin. 
+	Total Meetings Win --> 13, Last Five Meeting Wins --> 2, Their From At the moment is --> 47%. 
+Away Team --> Rijeka. 
+	Total Meetings Win --> 27, Last Five Meeting Wins --> 2,Their From At the moment is --> 60%.
+Result from Decision engine --> Home points = 1 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Shakhtar. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0, Their From At the moment is --> 47%. 
+Away Team --> Polissya Zhytomyr. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 1,Their From At the moment is --> 47%.
+Result from Decision engine --> Home points = 1.5 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Corinthians. 
+	Total Meetings Win --> 11, Last Five Meeting Wins --> 1, Their From At the moment is --> 40%. 
+Away Team --> Bragantino. 
+	Total Meetings Win --> 9, Last Five Meeting Wins --> 4,Their From At the moment is --> 27%.
+Result from Decision engine --> Home points = 2.5 Away points = 1 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Prat. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0, Their From At the moment is --> 40%. 
+Away Team --> Sabadell. 
+	Total Meetings Win --> 2, Last Five Meeting Wins --> 2,Their From At the moment is --> 33%.
+Result from Decision engine --> Home points = 1.5 Away points = 2 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Hibernian. 
+	Total Meetings Win --> 12, Last Five Meeting Wins --> 1, Their From At the moment is --> 40%. 
+Away Team --> Celtic. 
+	Total Meetings Win --> 62, Last Five Meeting Wins --> 3,Their From At the moment is --> 100%.
+Result from Decision engine --> Home points = 0 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> De Graafschap. 
+	Total Meetings Win --> 16, Last Five Meeting Wins --> 1, Their From At the moment is --> 20%. 
+Away Team --> Volendam. 
+	Total Meetings Win --> 10, Last Five Meeting Wins --> 4,Their From At the moment is --> 13%.
+Result from Decision engine --> Home points = 2.5 Away points = 1 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Pohang Steelers. 
+	Total Meetings Win --> 23, Last Five Meeting Wins --> 2, Their From At the moment is --> 60%. 
+Away Team --> Seoul. 
+	Total Meetings Win --> 28, Last Five Meeting Wins --> 0,Their From At the moment is --> 60%.
+Result from Decision engine --> Home points = 2.5 Away points = 2.5 
+SKIPPING....WILL COME BACK TO THIS. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Kryliya Sovetov. 
+	Total Meetings Win --> 7, Last Five Meeting Wins --> 4, Their From At the moment is --> 7%. 
+Away Team --> Voronezh. 
+	Total Meetings Win --> 2, Last Five Meeting Wins --> 1,Their From At the moment is --> 27%.
+Result from Decision engine --> Home points = 2 Away points = 1.5 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Flamengo. 
+	Total Meetings Win --> 15, Last Five Meeting Wins --> 2, Their From At the moment is --> 60%. 
+Away Team --> Palmeiras. 
+	Total Meetings Win --> 15, Last Five Meeting Wins --> 1,Their From At the moment is --> 27%.
+Result from Decision engine --> Home points = 3.5 Away points = 1 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Kilmarnock. 
+	Total Meetings Win --> 24, Last Five Meeting Wins --> 2, Their From At the moment is --> 33%. 
+Away Team --> St Johnstone. 
+	Total Meetings Win --> 27, Last Five Meeting Wins --> 2,Their From At the moment is --> 60%.
+Result from Decision engine --> Home points = 1 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Cercle Brugge. 
+	Total Meetings Win --> 9, Last Five Meeting Wins --> 4, Their From At the moment is --> 27%. 
+Away Team --> Beerschot. 
+	Total Meetings Win --> 3, Last Five Meeting Wins --> 0,Their From At the moment is --> 27%.
+Result from Decision engine --> Home points = 3.5 Away points = 1.5 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> St. Gallen. 
+	Total Meetings Win --> 20, Last Five Meeting Wins --> 1, Their From At the moment is --> 100%. 
+Away Team --> Grasshopper. 
+	Total Meetings Win --> 32, Last Five Meeting Wins --> 0,Their From At the moment is --> 27%.
+Result from Decision engine --> Home points = 2.5 Away points = 1 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Qingdao West Coast FC. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0, Their From At the moment is --> 33%. 
+Away Team --> Beijing Guoan. 
+	Total Meetings Win --> 2, Last Five Meeting Wins --> 2,Their From At the moment is --> 60%.
+Result from Decision engine --> Home points = 0 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Cruzeiro. 
+	Total Meetings Win --> 32, Last Five Meeting Wins --> 2, Their From At the moment is --> 60%. 
+Away Team --> Atletico Mineiro. 
+	Total Meetings Win --> 27, Last Five Meeting Wins --> 2,Their From At the moment is --> 67%.
+Result from Decision engine --> Home points = 2 Away points = 2.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Al Ahly (EGY). 
+	Total Meetings Win --> 3, Last Five Meeting Wins --> 3, Their From At the moment is --> 100%. 
+Away Team --> Zed. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0,Their From At the moment is --> 40%.
+Result from Decision engine --> Home points = 3.5 Away points = 0 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Oita. 
+	Total Meetings Win --> 7, Last Five Meeting Wins --> 3, Their From At the moment is --> 47%. 
+Away Team --> Roasso K. 
+	Total Meetings Win --> 5, Last Five Meeting Wins --> 0,Their From At the moment is --> 40%.
+Result from Decision engine --> Home points = 3.5 Away points = 0 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Audax. 
+	Total Meetings Win --> 16, Last Five Meeting Wins --> 1, Their From At the moment is --> 27%. 
+Away Team --> Union Espanola. 
+	Total Meetings Win --> 19, Last Five Meeting Wins --> 3,Their From At the moment is --> 27%.
+Result from Decision engine --> Home points = 1.5 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Karpaty LVIV. 
+	Total Meetings Win --> 7, Last Five Meeting Wins --> 3, Their From At the moment is --> 40%. 
+Away Team --> Kryvbas Kriviy. 
+	Total Meetings Win --> 3, Last Five Meeting Wins --> 1,Their From At the moment is --> 47%.
+Result from Decision engine --> Home points = 2 Away points = 1.5 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Pohang Steelers. 
+	Total Meetings Win --> 23, Last Five Meeting Wins --> 2, Their From At the moment is --> 60%. 
+Away Team --> Seoul. 
+	Total Meetings Win --> 28, Last Five Meeting Wins --> 0,Their From At the moment is --> 60%.
+Result from Decision engine --> Home points = 2.5 Away points = 2.5 
+SKIPPING....WILL COME BACK TO THIS. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Royal Antwerp. 
+	Total Meetings Win --> 12, Last Five Meeting Wins --> 3, Their From At the moment is --> 47%. 
+Away Team --> St. Truidense. 
+	Total Meetings Win --> 18, Last Five Meeting Wins --> 0,Their From At the moment is --> 7%.
+Result from Decision engine --> Home points = 2.5 Away points = 1 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Estudiantes La Plata. 
+	Total Meetings Win --> 17, Last Five Meeting Wins --> 3, Their From At the moment is --> 53%. 
+Away Team --> Independiente. 
+	Total Meetings Win --> 11, Last Five Meeting Wins --> 2,Their From At the moment is --> 33%.
+Result from Decision engine --> Home points = 3.5 Away points = 0 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Odd. 
+	Total Meetings Win --> 10, Last Five Meeting Wins --> 1, Their From At the moment is --> 27%. 
+Away Team --> Sarpsborg. 
+	Total Meetings Win --> 13, Last Five Meeting Wins --> 3,Their From At the moment is --> 73%.
+Result from Decision engine --> Home points = 0 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Vilassar de Mar. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0, Their From At the moment is --> 40%. 
+Away Team --> Terrassa. 
+	Total Meetings Win --> 1, Last Five Meeting Wins --> 1,Their From At the moment is --> 67%.
+Result from Decision engine --> Home points = 0 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Once Caldas. 
+	Total Meetings Win --> 12, Last Five Meeting Wins --> 2, Their From At the moment is --> 87%. 
+Away Team --> Bucaramanga. 
+	Total Meetings Win --> 4, Last Five Meeting Wins --> 1,Their From At the moment is --> 33%.
+Result from Decision engine --> Home points = 3.5 Away points = 0 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Aberdeen. 
+	Total Meetings Win --> 28, Last Five Meeting Wins --> 1, Their From At the moment is --> 100%. 
+Away Team --> St. Mirren. 
+	Total Meetings Win --> 16, Last Five Meeting Wins --> 3,Their From At the moment is --> 60%.
+Result from Decision engine --> Home points = 2.5 Away points = 1 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Atletico Madrid B. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0, Their From At the moment is --> 40%. 
+Away Team --> Zamora. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0,Their From At the moment is --> 53%.
+Result from Decision engine --> Home points = 2 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Nordsjaelland. 
+	Total Meetings Win --> 11, Last Five Meeting Wins --> 3, Their From At the moment is --> 73%. 
+Away Team --> Lyngby. 
+	Total Meetings Win --> 6, Last Five Meeting Wins --> 0,Their From At the moment is --> 27%.
+Result from Decision engine --> Home points = 3.5 Away points = 0 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Deportivo Camioneros. 
+	Total Meetings Win --> 0, Last Five Meeting Wins --> 0, Their From At the moment is --> 13%. 
+Away Team --> Olimpo. 
+	Total Meetings Win --> 4, Last Five Meeting Wins --> 4,Their From At the moment is --> 53%.
+Result from Decision engine --> Home points = 0 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Randers. 
+	Total Meetings Win --> 16, Last Five Meeting Wins --> 2, Their From At the moment is --> 87%. 
+Away Team --> Silkeborg. 
+	Total Meetings Win --> 14, Last Five Meeting Wins --> 1,Their From At the moment is --> 47%.
+Result from Decision engine --> Home points = 3.5 Away points = 0 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Sirius. 
+	Total Meetings Win --> 5, Last Five Meeting Wins --> 2, Their From At the moment is --> 60%. 
+Away Team --> Kalmar. 
+	Total Meetings Win --> 6, Last Five Meeting Wins --> 1,Their From At the moment is --> 40%.
+Result from Decision engine --> Home points = 2.5 Away points = 1 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Braunschweig. 
+	Total Meetings Win --> 7, Last Five Meeting Wins --> 2, Their From At the moment is --> 80%. 
+Away Team --> Magdeburg. 
+	Total Meetings Win --> 4, Last Five Meeting Wins --> 3,Their From At the moment is --> 53%.
+Result from Decision engine --> Home points = 2.5 Away points = 1 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Pohang Steelers. 
+	Total Meetings Win --> 23, Last Five Meeting Wins --> 2, Their From At the moment is --> 60%. 
+Away Team --> Seoul. 
+	Total Meetings Win --> 28, Last Five Meeting Wins --> 0,Their From At the moment is --> 60%.
+Result from Decision engine --> Home points = 2.5 Away points = 2.5 
+SKIPPING....WILL COME BACK TO THIS. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Lugano. 
+	Total Meetings Win --> 16, Last Five Meeting Wins --> 2, Their From At the moment is --> 60%. 
+Away Team --> Luzern. 
+	Total Meetings Win --> 22, Last Five Meeting Wins --> 1,Their From At the moment is --> 53%.
+Result from Decision engine --> Home points = 2.5 Away points = 1 
+	 picking draw or home 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Home Team --> Alanyaspor. 
+	Total Meetings Win --> 3, Last Five Meeting Wins --> 1, Their From At the moment is --> 47%. 
+Away Team --> Eyupspor. 
+	Total Meetings Win --> 3, Last Five Meeting Wins --> 1,Their From At the moment is --> 53%.
+Result from Decision engine --> Home points = 2 Away points = 3.5 
+	 picking draw or away 
+ADDED TO SLIP 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
